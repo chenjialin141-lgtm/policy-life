@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+*.log
+.DS_Store
+_shots/
+_*.py
+.env
+.env.local
+
+.vercel
+.env*
