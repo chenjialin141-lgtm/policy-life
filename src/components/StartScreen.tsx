@@ -26,6 +26,9 @@ export default function StartScreen({
           POLICY <span className="text-gold-500">LIFE</span>
         </h1>
         <p className="mt-2 font-serif text-lg text-slate-300">政策人生模擬器</p>
+        <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-gold-600/40 bg-gold-500/10 px-3 py-1 text-[11px] font-medium tracking-[0.25em] text-gold-300">
+          全球首款 · 自由輸入政策的治理模擬沙盒
+        </div>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-slate-400">
           「每一個決定，都可能成為下一場危機的起點。」
           <br />
